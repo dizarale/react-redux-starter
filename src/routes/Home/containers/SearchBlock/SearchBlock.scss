@@ -1,0 +1,21 @@
+.banner {
+  width: 100%;
+  display:inline-block;
+  position:relative;
+}
+
+.searchBlock{
+    width:100% !important;
+    display:block;   
+    background-image: url('http://dtsavvy.com/wp-content/uploads/2016/11/facebook-banner2.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.searchBox
+{
+    width: 100% !important;
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
